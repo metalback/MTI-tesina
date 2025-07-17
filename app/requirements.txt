@@ -1,0 +1,6 @@
+vanna[chromadb,gemini]
+flask
+pyodbc
+pandas
+chromadb
+vertexai
